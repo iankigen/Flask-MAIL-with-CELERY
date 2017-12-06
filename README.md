@@ -13,6 +13,10 @@ In another terminal in your virtual environment:
 
 - `cd /path/to/project`
 
+- `mv .env.sample .env` and change to your credentials
+
+- `source .env`
+
 - `pip install -r requirements.txt`
 
 - `python main.py`
