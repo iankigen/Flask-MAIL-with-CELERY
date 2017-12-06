@@ -27,6 +27,6 @@ In another terminal in your virual environment:
 
 | Endpoint | Description |
 | ---- | --------------- |
-| [POST/GET /](#) |  Input email address |
-| [GET /confirm-email/<token>](#) | Confirm email address |
+| [POST|GET: /](#) |  Input email address |
+| [GET: /confirm-email/<token>](#) | Confirm email address |
 
